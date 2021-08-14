@@ -1,1 +1,1 @@
-# data-analysis-with-python
+# simple data science projects
